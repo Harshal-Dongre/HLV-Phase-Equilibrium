@@ -1,0 +1,6 @@
+Identifiers,Guests,Salts,T_P_range,N_guests,N_salts,Constant_range
+1,Pure Methane,No,A25:B159,1,0,B3:B21
+2,Pure Ethane,No ,E25:F74,1,0,F3:F21
+3,Pure Propane,No,I25:J75,1,0,J3:J21
+4,Pure CO2,No,M25:N189,1,0,N3:N21
+5,Pure R152a,No ,Q25:R60,1,0,R3:R21
